@@ -89,23 +89,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IOleg-crypto&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOleg-crypto&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"Premature optimization is the root of all evil — but caching shaders isn't premature."</i> ⚙️
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="https://github.com/IOleg-crypto" target="_blank">
