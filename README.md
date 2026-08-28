@@ -66,9 +66,9 @@
     <td width="50%" valign="top">
       <h3 align="center">🎮 Custom Game Engine & Render Pipeline</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenGL-GLSL-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/CMake-Build-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue" alt="C++" />
+        <img src="https://img.shields.io/badge/OpenGL-GLSL-green" alt="OpenGL" />
+        <img src="https://img.shields.io/badge/CMake-Build-orange" alt="CMake" />
       </p>
       <p>Low-level rendering engine architecture featuring shadow mapping, framebuffer management, font atlas packing via FreeType, EnTT (ECS) integration, Jolt Physics, and custom UI powered by ImGui.</p>
       <p align="center">
@@ -78,8 +78,8 @@
     <td width="50%" valign="top">
       <h3 align="center">💬 Multi-threaded Network Client-Server</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-JavaFX-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sockets-Networking-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-JavaFX-red" alt="JavaFX" />
+        <img src="https://img.shields.io/badge/Sockets-Networking-yellow" alt="Sockets" />
       </p>
       <p>Multi-threaded real-time messaging application. Built with optimized socket handling, asynchronous data processing, and a clean custom desktop user interface.</p>
       <p align="center">
@@ -94,12 +94,8 @@
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IOleg-crypto&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOleg-crypto&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IOleg-crypto&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IOleg-crypto&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOleg-crypto&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -113,6 +109,6 @@
 ### 📫 Connect with me
 <p align="left">
   <a href="https://github.com/IOleg-crypto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
